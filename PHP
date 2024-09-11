@@ -1,0 +1,7 @@
+<?php
+date_default_timezone_set('Asia/Kolkata'); // Set your timezone
+$name = "Varsha"; // Replace with your name if needed
+$current_time = date("Y-m-d H:i:s");
+
+echo "Hello $name, right now the time is $current_time";
+?>
