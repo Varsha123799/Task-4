@@ -53,11 +53,7 @@ In the terminal, navigate to the project directory:
 cd Taskfour
 ```
 
-Run the PHP script:
-
-```bash
-php taskfour.php
-```
+Run the PHP script
 
 ### Output
 
