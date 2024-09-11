@@ -3,8 +3,8 @@
 This repository contains two simple programs (one in Rust and one in PHP) that print a personalized greeting along with the current time. The programs are configured to show the current time in Indian Standard Time (IST).
 
 ## Contents
-- `taskfour`: Rust project that prints a greeting with the current time.
-- `taskfour.php`: PHP file that prints a greeting with the current time.
+- `Rust`: Rust project that prints a greeting with the current time.
+- `Php`: PHP file that prints a greeting with the current time.
 
 ## Rust Program
 
