@@ -1,0 +1,8 @@
+use chrono::Local;
+
+fn main() {
+    let current_time = Local::now();
+    let name = "Varsha"; // Replace with your name if needed
+
+    println!("Hello {}, right now the time is {}", name, current_time.format("%Y-%m-%d %H:%M:%S"));
+}
